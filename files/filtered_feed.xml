@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>My Custom Filtered Feed</title>
+ <description>Aggregated feed based on search terms.</description>
+ <link>http://localhost</link></channel>
+</rss>
