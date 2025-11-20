@@ -3,5 +3,28 @@
 <channel>
  <title>My Custom Filtered Feed</title>
  <description>Aggregated feed based on search terms.</description>
- <link>http://localhost</link></channel>
+ <link>https://github.com/Aradesh3k/Test</link>
+ <item>
+  <title>Merchant Crab A LitRPG Adventure - H0st</title>
+  <link>https://audiobookbay.lu/abss/merchant-crab-a-litrpg-adventure-h0st/</link>
+  <description>Shared by:h0ser
+
+
+
+
+Written by H0st Read by Johnathan McClain, H0st Format: M4B Bitrate: 64 Kbps Unabridged 
+Merchant Crab
+A LitRPG Adventure
+Written by
+H0st
+Narrated by
+Johnathan McClain
+.
+An unlikely protagonist leads this hilarious new LitRPG, perfect for fans of Heretical Fishing, Chrysalis, and Lunadea!
+Join this unexpected merchant on his penny-pinching quest for riches and sweetness!
+Balthazar was just a random giant crab [...]</description>
+  <pubDate>Thu, 20 Nov 2025 04:00:02 -0000</pubDate>
+  <guid>https://audiobookbay.lu/abss/merchant-crab-a-litrpg-adventure-h0st/</guid>
+ </item>
+</channel>
 </rss>
